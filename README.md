@@ -1,0 +1,2 @@
+# githubnewsetup
+simple github basic 
